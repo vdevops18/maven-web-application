@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.21.221:9980/mithuntechnologies/repository/hdfcbank-release/</url>
+	      <url>http://172.31.22.213:9980/masterdevops/repository/capitalone-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.21.221:9980/mithuntechnologies/repository/hdfacbank-snapshot/</url>
+	      <url>http://172.31.22.213:9980/masterdevops/repository/capitalone-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
